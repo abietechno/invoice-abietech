@@ -25,8 +25,8 @@ const initialReceiptData: ReceiptData = {
   penerima: 'Budi Santoso',
   tempat: 'Jakarta',
   tanggal: new Date().toISOString().split('T')[0],
-  logo: null,
-  tandaTangan: null,
+  logo: '/logo.png',
+  tandaTangan: '/signature.png',
 };
 
 const initialNotaData: NotaData = {
@@ -38,8 +38,8 @@ const initialNotaData: NotaData = {
     { id: crypto.randomUUID(), deskripsi: 'Jasa Desain Website', kuantitas: 1, harga: 4250000 },
   ],
   diskon: 0,
-  logo: null,
-  tandaTangan: null,
+  logo: '/logo.png',
+  tandaTangan: '/signature.png',
   hormatKami: 'Manajemen',
 };
 
