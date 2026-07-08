@@ -1,0 +1,6 @@
+{
+  "name": "Kuitansi Online Generator",
+  "description": "An application to create, preview, and print professional-looking online receipts with custom logos and signatures. The layout is designed to mimic a standard A5 landscape receipt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
